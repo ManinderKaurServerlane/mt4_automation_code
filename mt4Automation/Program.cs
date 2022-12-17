@@ -51,9 +51,9 @@ namespace Mt4Automation
                             mainWindow.FindFirstDescendant(cf.ByName("OK")).AsButton().Click();
                             mainWindow.FindFirstDescendant(cf.ByName("Pytrader_MT4_EA_V2.07")).AsButton().DoubleClick();
                             Thread.Sleep(2000);
-                            Process.Start("D:\\serverlane\\autoit_mt4_automation\\checkEaAlert.exe");
+                            Process.Start("C:\\Users\\Administrator\\code\\autoit_mt4_automation\\checkEaAlert.exe");
                             Thread.Sleep(2000);
-                            Process.Start("D:\\serverlane\\autoit_mt4_automation\\eaConfirmation.exe");
+                            Process.Start("C:\\Users\\Administrator\\code\\autoit_mt4_automation\\eaConfirmation.exe");
                             i++;
                         }
                         application.Close();

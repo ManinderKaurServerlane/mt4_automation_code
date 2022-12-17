@@ -888,11 +888,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\mt4Automation\\mt4Automation\\mt4Automation.csproj",
+      "projectUniqueName": "D:\\serverlane\\sample_mt4\\mt4Automation\\mt4Automation.csproj",
       "projectName": "mt4Automation",
-      "projectPath": "C:\\Users\\hp\\source\\repos\\mt4Automation\\mt4Automation\\mt4Automation.csproj",
+      "projectPath": "D:\\serverlane\\sample_mt4\\mt4Automation\\mt4Automation.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\source\\repos\\mt4Automation\\mt4Automation\\obj\\",
+      "outputPath": "D:\\serverlane\\sample_mt4\\mt4Automation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

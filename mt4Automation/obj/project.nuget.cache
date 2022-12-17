@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0gUXvRa3JKoUqS5yPXkraFPrgBoIEaLr5miKz9426oy67hBZUri+/RXtC91YdcSj7xGLZcmqJQ27+HCJb4CCjA==",
+  "dgSpecHash": "rnIVk1bVN3GpY2/EZNn7mUf+4IRUdZh0AGK3eWesLIBeERILj2UFRyB/xPlDxGp10g7P1TWdk+inKWjbsUFPAw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\source\\repos\\mt4Automation\\mt4Automation\\mt4Automation.csproj",
+  "projectFilePath": "D:\\serverlane\\sample_mt4\\mt4Automation\\mt4Automation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\flaui.core\\4.0.0\\flaui.core.4.0.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\flaui.uia2\\4.0.0\\flaui.uia2.4.0.0.nupkg.sha512",
