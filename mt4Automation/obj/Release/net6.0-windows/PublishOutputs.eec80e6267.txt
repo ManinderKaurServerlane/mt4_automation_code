@@ -1,0 +1,11 @@
+C:\Users\hp\Documents\mt4Automation.exe
+C:\Users\hp\Documents\mt4Automation.dll
+C:\Users\hp\Documents\mt4Automation.deps.json
+C:\Users\hp\Documents\mt4Automation.runtimeconfig.json
+C:\Users\hp\Documents\mt4Automation.pdb
+C:\Users\hp\Documents\FlaUI.Core.dll
+C:\Users\hp\Documents\FlaUI.UIA2.dll
+C:\Users\hp\Documents\FlaUI.UIA3.dll
+C:\Users\hp\Documents\Interop.UIAutomationClient.dll
+C:\Users\hp\Documents\System.Management.dll
+C:\Users\hp\Documents\runtimes\win\lib\netcoreapp2.0\System.Management.dll
