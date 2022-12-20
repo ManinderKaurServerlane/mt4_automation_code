@@ -11,7 +11,7 @@
         "projectName": "mt4Automation",
         "projectPath": "D:\\serverlane\\sample_mt4\\mt4Automation\\mt4Automation.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "D:\\serverlane\\sample_mt4\\mt4Automation\\obj\\",
+        "outputPath": "D:\\serverlane\\sample_mt4\\mt4Automation\\obj\\publish\\win10-x64\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

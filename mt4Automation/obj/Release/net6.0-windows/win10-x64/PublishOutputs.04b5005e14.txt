@@ -1,0 +1,10 @@
+D:\serverlane\mt4_automation_exe\mt4Automation.exe
+D:\serverlane\mt4_automation_exe\mt4Automation.dll
+D:\serverlane\mt4_automation_exe\mt4Automation.deps.json
+D:\serverlane\mt4_automation_exe\mt4Automation.runtimeconfig.json
+D:\serverlane\mt4_automation_exe\mt4Automation.pdb
+D:\serverlane\mt4_automation_exe\FlaUI.Core.dll
+D:\serverlane\mt4_automation_exe\FlaUI.UIA2.dll
+D:\serverlane\mt4_automation_exe\FlaUI.UIA3.dll
+D:\serverlane\mt4_automation_exe\Interop.UIAutomationClient.dll
+D:\serverlane\mt4_automation_exe\System.Management.dll

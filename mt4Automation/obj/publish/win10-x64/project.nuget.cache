@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2T/c+IggWdqdkrrL7yxkF78S/mUHpvK3fkVZ+Gm2DTDm7ij/+ymOcIW5A0cyTTsjH+jRpIEbop9FII6exyreSA==",
+  "dgSpecHash": "voRaS9vFvKpeeovvU/PQvbtSW1lBuhIcoHobCL1sADLzVi8yIlp3L8N8jUk4BM58B4sJXr4TbW49NjE4J+hDYQ==",
   "success": true,
   "projectFilePath": "D:\\serverlane\\sample_mt4\\mt4Automation\\mt4Automation.csproj",
   "expectedPackageFiles": [
@@ -21,9 +21,9 @@
     "C:\\Users\\hp\\.nuget\\packages\\system.security.permissions\\5.0.0\\system.security.permissions.5.0.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512",
-    "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.12\\microsoft.aspnetcore.app.runtime.win-x64.6.0.12.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.12\\microsoft.netcore.app.runtime.win-x64.6.0.12.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.12\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.12.nupkg.sha512",
-    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.12\\microsoft.netcore.app.runtime.win-x64.6.0.12.nupkg.sha512"
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.12\\microsoft.aspnetcore.app.runtime.win-x64.6.0.12.nupkg.sha512"
   ],
   "logs": []
 }
